@@ -1,0 +1,25 @@
+order_id,order_date,customer_id,product_id,product_name,category,quantity,unit_price,total_amount,region
+ORD001,2025-01-05,C001,P101,Laptop,Electronics,1,55000,55000,North
+ORD002,2025-01-18,C002,P102,Headphones,Electronics,2,2500,5000,West
+ORD003,2025-02-07,C003,P103,T-Shirt,Clothing,3,800,2400,South
+ORD004,2025-02-21,C004,P104,Jeans,Clothing,2,1800,3600,East
+ORD005,2025-03-04,C005,P105,Office Chair,Furniture,1,7500,7500,North
+ORD006,2025-03-19,C001,P106,Python Book,Books,2,650,1300,West
+ORD007,2025-04-08,C006,P107,Smartphone,Electronics,1,32000,32000,South
+ORD008,2025-04-24,C007,P108,Running Shoes,Sports,2,3000,6000,East
+ORD009,2025-05-06,C008,P109,Coffee Table,Furniture,1,9000,9000,North
+ORD010,2025-05-22,C002,P110,Backpack,Accessories,2,1500,3000,West
+ORD011,2025-06-03,C009,P111,Smart Watch,Electronics,1,12000,12000,South
+ORD012,2025-06-17,C010,P112,Novel,Books,4,500,2000,East
+ORD013,2025-07-09,C003,P113,Jacket,Clothing,1,3500,3500,North
+ORD014,2025-07-26,C011,P114,Football,Sports,3,1200,3600,West
+ORD015,2025-08-05,C012,P115,Desk Lamp,Furniture,2,1800,3600,South
+ORD016,2025-08-20,C004,P101,Laptop,Electronics,1,55000,55000,East
+ORD017,2025-09-11,C013,P102,Headphones,Electronics,3,2500,7500,North
+ORD018,2025-09-23,C005,P116,Sweatshirt,Clothing,2,2200,4400,West
+ORD019,2025-10-04,C014,P117,Cricket Bat,Sports,1,4500,4500,South
+ORD020,2025-10-19,C006,P118,Bookshelf,Furniture,1,8500,8500,East
+ORD021,2025-11-07,C015,P107,Smartphone,Electronics,2,32000,64000,North
+ORD022,2025-11-18,C001,P119,Data Science Book,Books,2,900,1800,West
+ORD023,2025-12-06,C007,P120,Winter Coat,Clothing,1,5000,5000,South
+ORD024,2025-12-20,C008,P111,Smart Watch,Electronics,2,12000,24000,East

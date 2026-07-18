@@ -1,0 +1,15 @@
+SALES DATA ANALYSIS REPORT
+========================================
+
+BASIC STATISTICS
+----------------------------------------
+Total Sales: Rs. 324,200.00
+Total Orders: 24
+Average Order Value: Rs. 13,508.33
+Unique Customers: 15
+Unique Products: 20
+
+PEAK SALES PERIOD
+----------------------------------------
+Highest Sales Month: 2025-11
+Sales: Rs. 65,800.00
